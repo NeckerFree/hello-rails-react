@@ -8,6 +8,8 @@ gem 'rails', '~> 7.0.3', '>= 7.0.3.1'
 
 gem 'rack-cors'
 
+gem 'jsbundling-rails'
+
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
 
